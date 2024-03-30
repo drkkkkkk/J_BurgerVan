@@ -118,7 +118,7 @@
   <txdRelationships>
     <Item>
       <parent>vehicles_van_interior</parent>
-      <child>jakesburg</child>
+      <child>jakesbab</child>
     </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
